@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: rgb(90, 19, 102);
+    background-color: rgb(91, 22, 131);
 }
 
 header {
@@ -11,7 +11,7 @@ header {
 }
 
 .button {
-    background-color: #3b0748;
+    background-color: #300748;
     color: rgb(212, 121, 255);
     text-decoration: none;
     padding: 15px;
@@ -61,11 +61,12 @@ article {
 
 .article-but {
     text-decoration: none;
-    background-color: grey;
-    color: black;
+    background-color: rgb(72, 19, 102);
+    color: rgb(212, 121, 255);
     font-size: 24px;
     text-align: center;
     padding: 10px 75px 10px 75px;
+    border-radius: 10px;
 }
 
 footer {
@@ -79,5 +80,5 @@ footer a {
 
 footer p {
     font-size: 24px;
-    color: rgb(38, 4, 49)
+    color: rgb(212, 121, 255);
 }
