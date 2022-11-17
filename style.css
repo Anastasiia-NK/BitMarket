@@ -82,3 +82,8 @@ footer p {
     font-size: 24px;
     color: rgb(212, 121, 255);
 }
+
+header img {
+    height: 70px;
+    width: 70px;
+}
